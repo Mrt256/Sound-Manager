@@ -1,4 +1,5 @@
-# Mini Sound Effect Manager
+# Sound Effect Manager
+**Developed by:** Matheus Henrique Engel Stelzner  
 
 A simple Python application that allows you to load, list, and play short sound effects through a clean graphical interface.
 
